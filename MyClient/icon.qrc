@@ -1,0 +1,29 @@
+<RCC>
+    <qresource prefix="/logo"/>
+    <qresource prefix="/">
+        <file>logo/logo.png</file>
+        <file>logo/connect1.png</file>
+        <file>logo/connect2.png</file>
+        <file>logo/connect3.png</file>
+        <file>logo/download1.png</file>
+        <file>logo/download2.png</file>
+        <file>logo/download3.png</file>
+        <file>logo/exit1.png</file>
+        <file>logo/exit2.png</file>
+        <file>logo/exit3.png</file>
+        <file>logo/filedir1.png</file>
+        <file>logo/filedir2.png</file>
+        <file>logo/filedir3.png</file>
+        <file>logo/login_background.png</file>
+        <file>logo/login1.png</file>
+        <file>logo/login2.png</file>
+        <file>logo/login3.png</file>
+        <file>logo/upload1.png</file>
+        <file>logo/upload2.png</file>
+        <file>logo/upload3.png</file>
+        <file>logo/viewfolder1.png</file>
+        <file>logo/viewfolder2.png</file>
+        <file>logo/viewfolder3.png</file>
+        <file>logo/widget_background.png</file>
+    </qresource>
+</RCC>

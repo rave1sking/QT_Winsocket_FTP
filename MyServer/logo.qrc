@@ -1,0 +1,12 @@
+<RCC>
+    <qresource prefix="/">
+        <file>logo/logo.png</file>
+        <file>logo/openser1.png</file>
+        <file>logo/openser2.png</file>
+        <file>logo/openser3.png</file>
+        <file>logo/ser_background.png</file>
+        <file>logo/exit1.png</file>
+        <file>logo/exit2.png</file>
+        <file>logo/exit3.png</file>
+    </qresource>
+</RCC>
